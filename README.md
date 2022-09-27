@@ -3,7 +3,7 @@ Practical work 2. In the discipline of Mobile application development
 
 ![Screenshot](screenshot.png)
 
-Обработчика на события нажатий клавиш
+Обработчик на события нажатий клавиш
 ```
 View.OnKeyListener myKeyListener = new View.OnKeyListener() {
             @Override
